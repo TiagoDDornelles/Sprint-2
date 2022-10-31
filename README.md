@@ -7,3 +7,8 @@ Realizado a operação via banco de dados onde o usuario vai realizar 4 operaç�
 3- Deletar o segundo produto cadastrado
 4- Finalizar o programa
 Foi realizado print das telas e realizado o backup do banco de dados para que possa ser utilizado.
+
+# Atividade-2
+Foi realizado a operação de cadastrar 20 filmes em uma tabela no banco de dados.
+Foi utilizado um Limitador na consulta para poder realizar a paginação.
+O usuario basta informar o seu nome e seguir as istruções solicitadas. 
