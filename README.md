@@ -12,3 +12,7 @@ Foi realizado print das telas e realizado o backup do banco de dados para que po
 Foi realizado a operação de cadastrar 20 filmes em uma tabela no banco de dados.
 Foi utilizado um Limitador na consulta para poder realizar a paginação.
 O usuario basta informar o seu nome e seguir as istruções solicitadas. 
+
+# Atividade-3
+Nesta atividade foi realizado a operação de descobrir qual o sentimento expresso na mensagem.
+O usuario vai poder escolher quantas vezes deseja informar uma frase, logo após vai escrever suas frases trazendo o resultado no final 
